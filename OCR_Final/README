@@ -1,0 +1,25 @@
+#### OCR - Optical character Recognition ####
+########### Projet OCR EPITA S3 #############
+################### JORP ####################
+
+
+In order to compile propely, follow these instructions:
+
+### To launch the main programm
+- Open a terminal
+- $ cd /the/file/destination/OCR_Final/Display picture 2.0
+- $ make
+- $ ./OCR.exe
+- Then follow the instructions by pressing the Help window's button
+
+### To see the output of the neural network
+- Open a terminal
+- $ cd /the/file/destination/OCR_Final/Display picture 2.0
+- $ make
+- $ ./Neurone.exe
+
+
+To delete all the files that the Makefile created, just write: $ make clean
+
+
+Our Website: https://remy94550.wixsite.com/website
